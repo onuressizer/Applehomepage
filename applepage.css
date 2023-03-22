@@ -1,0 +1,71 @@
+header{background-color: #494747;}
+
+body{margin:0;
+
+font-family: 'Roboto';}
+
+a{text-decoration: none;}
+
+header a{color: rgb(201, 193, 193);
+;}
+header a :hover{color:white;}
+header{text-align: center;
+padding: 12px;}
+
+
+header a{padding: 5px;
+    margin: 10px;}
+
+header img{ width: 15px;
+height: 17px;}
+
+
+main section{ 
+margin-bottom: 10px;
+padding-top: 50px;
+
+}
+
+main section{
+    text-align: center;
+background-color: black;
+color: white;}
+
+main section.iphone14{
+    background-color: white;
+    color: black;
+    font-size: 2rem;
+}
+
+main section h2{ font-size: 3.5rem;
+            margin-top: 0;
+                    margin-bottom: 0;}
+main section p {
+    font-size: 2rem;
+    color: #616161;
+}
+
+main section p.satis-tarihi{
+    font-size: 1.5rem;
+    color:#dab5b5;
+}
+
+main section p.linkler{
+    font-size: 1.4rem;
+    margin-bottom: 70px;
+}
+
+main section p.linkler a{
+    margin-right: 30px ;
+}
+
+main section.watch h2 img{
+    width: 50px;
+    height: auto;
+}
+
+
+main section.watch .series{
+    font-size: 1.3rem;
+    color: crimson;
+    letter-spacing:0.4rem ;}
